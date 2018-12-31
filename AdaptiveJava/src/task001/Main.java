@@ -1,4 +1,4 @@
-package part_1_5_integer.task001;
+package task001;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;

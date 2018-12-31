@@ -1,4 +1,4 @@
-package part_1_5_integer.task002;
+package task002;
 
 import java.util.ArrayList;
 import java.util.List;
